@@ -1,0 +1,16 @@
+---
+layout: thin-default
+---
+
+<div class="home">
+  <h2 class="page-heading">Công trình đã thi công</h2>
+  <ul class="noithat-list">
+    {% for image in site.data.congtrinhdathicong %}
+      <li>
+        <a class="single_image" href="{{ image.url }}"><img src="{{ image.url }}" alt=""/>
+        <figcaption>{{image.cdt}}</figcaption>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

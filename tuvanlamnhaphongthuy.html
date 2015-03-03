@@ -1,0 +1,21 @@
+---
+layout: thin-default
+---
+
+
+<div class="home">
+
+  <h2 class="page-heading">Tư vấn làm nhà - phong thuỷ</h2>
+
+  <ul class="post-list">
+    {% for post in site.categories.phongthuy %}
+      <li>
+        <span class="post-meta">{{ post.summary}}</span>
+
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

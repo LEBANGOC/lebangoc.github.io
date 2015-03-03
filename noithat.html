@@ -1,0 +1,23 @@
+---
+layout: thin-default
+---
+
+<div class="home">
+  {% for noithat in site.data.noithat %}
+  {% assign nt = noithat[1] %}
+  <div class="box-item">
+  <h2 class="page-heading">{{ nt.title }}</h2>
+
+  <ul class="noithat-list">
+    {% for image in nt.members %}
+      <li>
+        <a class="single_image" href="{{ image.url }}"><img src="{{ image.url }}" alt=""/></a>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+{% endfor %}
+  
+
+</div>
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+    <div class="container">
+        {% include header.html %}
+        <div class="flexslider">
+            <ul class="slides">
+                <li>
+                    <img src="/images/slide1.png" />
+                </li>
+                <li>
+                    <img src="/images/slide2.png" />
+                </li>
+                <li>
+                    <img src="/images/slide3.png" />
+                </li>
+            </ul>
+        </div>
+        <div class="page-content">
+            <div class="wrapper">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+    {% include footer.html %}
+
+</body>
+
+</html>
