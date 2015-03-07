@@ -1,4 +1,4 @@
-- url: /resources/noithatbep_phongan/dining (1).jpg
+﻿- url: /resources/noithatbep_phongan/dining (1).jpg
   cdt: Bùi Tuấn Nghĩa
 - url: /resources/noithatbep_phongan/dining (2).jpg
   cdt: nam
@@ -6,3 +6,5 @@
   cdt: hoang
 - url: /resources/noithatbep_phongan/kitchen.jpg
   cdt: xyz
+- url: /resources/noithatbep_phongan/pantry.jpg
+  cdt: abc
