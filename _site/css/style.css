@@ -1,0 +1,93 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial,tahoma;
+}
+
+.container{
+    width:1024px;
+    margin:0 auto;
+}
+.menu{
+    margin:0 auto;
+    width: 1024px;
+    height: 40px;
+}
+.menu.header-menu{
+    background:url(../images/horizontal_line.png) ;
+}
+.menu-items{
+    clear: both;
+    margin: 0;
+    padding:0 10px;
+    list-style:none;
+}
+.menu-items li{
+    padding:0 15px;
+    line-height:40px;
+    float:left;
+}
+.menu.header-menu > .menu-items li:hover{
+    background-color:red;
+}
+.menu-items li a{
+    text-decoration: none;
+    color:#fff;
+}
+.flexslider{
+    border: 0 !important;
+}
+.features h2{
+    color:#166fa3;
+}
+.footer{
+    clear: both;
+    background:url(../images/pattern.png);
+    color:#000;
+    height:140px;
+}
+.footer p{
+    text-align:center;
+    font-size:10pt;
+    color:#5d6063;
+    line-height: 24px;
+}
+.company-name{
+    text-transform: uppercase;
+}
+.menu.footer-menu > .menu-items li a{
+    color:#000;
+}
+.menu.footer-menu > .menu-items li a:hover{
+text-decoration: underline;    
+}
+/*Page Styles*/
+.page-content{
+    line-height:30px;
+}
+.noithat-list{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+.box-item{
+    clear:both;
+}
+.noithat-list li {
+    float:left;
+    text-align:center;
+}
+.noithat-list li img{
+    padding: 5px;
+    background: #FFF;
+    border: 1px solid #BBB;
+    margin: 10px 5px;
+    width: 160px;
+}
+.post-list{
+    list-style-type: none;
+}
+
+.post-list li a{
+    text-decoration: none;
+}
