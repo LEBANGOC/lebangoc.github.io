@@ -7,9 +7,11 @@ layout: thin-default
   <ul class="noithat-list">
     {% for image in site.data.congtrinhdathicong %}
       <li>
+        <div class="img-block">
         <a class="single_image" href="{{ image.url }}"><img src="{{ image.url }}" alt=""/>
-        <figcaption>{{image.cdt}}</figcaption>
         </a>
+        </div>
+        <figcaption>{{image.cdt}}</figcaption>
       </li>
     {% endfor %}
   </ul>

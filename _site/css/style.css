@@ -27,6 +27,11 @@ body{
     line-height:40px;
     float:left;
 }
+.img-block{    
+    min-height: 194px;
+     max-height: 194px;
+     overflow: hidden;
+}
 .menu.header-menu > .menu-items li:hover{
     background-color:red;
 }
@@ -81,8 +86,9 @@ text-decoration: underline;
     padding: 5px;
     background: #FFF;
     border: 1px solid #BBB;
-    margin: 10px 5px;
-    width: 160px;
+    margin: 10px 32px;
+    width: 180px;
+    max-height: 150px;
 }
 .post-list{
     list-style-type: none;

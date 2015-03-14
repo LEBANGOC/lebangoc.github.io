@@ -2,7 +2,7 @@
 
 - url: /resources/congtrinhdathicong/CDT_Anh_Cao_Quoc_Cuong/CDT_Anh_Cao_Quoc_Cuong.jpg
   cdt: CĐT Anh Cao Quốc Cường
-- url: /resources/congtrinhdathicong/CDT_Anh_Bui_Tuan_Nghia/CDT_Anh_Bui_Tuan_Nghia.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Bui_Tuan_Nghia/CDT_Anh_Bui_Tuan_Nghia.png
   cdt: CĐT Anh Bùi Tuấn Nghĩa
 - url: /resources/congtrinhdathicong/CDT_Anh_Dang_Duy_Thang/CDT_Anh_Dang_Duy_Thang.jpg
   cdt: CĐT Anh Đặng Duy Thắng
@@ -10,9 +10,8 @@
   cdt: CĐT Anh Đặng Hữu Nghĩa
 - url: /resources/congtrinhdathicong/CDT_Anh_Dinh_Van_Viet/CDT_Anh_Dinh_Van_Viet.jpg
   cdt: CĐT Anh Đinh Văn Việt
-- url: /resources/congtrinhdathicong/CDT_Anh_Ha_Duy_Phong/CDT_Anh_Ha_Duy_Phong.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Ha_Duy_Phong/CDT_Anh_Ha_Duy_Phong.png
   cdt: CĐT Anh Hà Duy Phong
-- url: /resources/congtrinhdathicong/CDT_Anh_Ho_Huu_Toan/CDT_Anh_Ho_Huu_Toan1.jpg
 - url: /resources/congtrinhdathicong/CDT_Anh_Ho_Huu_Toan/CDT_Anh_Ho_Huu_Toan2.jpg
   cdt: CĐT Anh Hồ Hữu Toàn
 - url: /resources/congtrinhdathicong/CDT_Anh_Hoang_Nhat_Minh/CDT_Anh_Hoang_Nhat_Minh.jpg
@@ -21,17 +20,15 @@
   cdt: CĐT Anh Huỳnh Hữu Đức
 - url: /resources/congtrinhdathicong/CDT_Anh_Le_Phi_Huy/CDT_Anh_Le_Phi_Huy.jpg
   cdt: CĐT Anh Lê Phi Huy
-- url: /resources/congtrinhdathicong/CDT_Anh_Le_Toan_Thang/CDT_Anh_Le_Toan_Thang1.jpg
-- url: /resources/congtrinhdathicong/CDT_Anh_Le_Toan_Thang/CDT_Anh_Le_Toan_Thang2.jpg
 - url: /resources/congtrinhdathicong/CDT_Anh_Le_Toan_Thang/CDT_Anh_Le_Toan_Thang3.jpg
   cdt: CĐT Anh Lê Toàn Thắng
 - url: /resources/congtrinhdathicong/CDT_Anh_Mai_Duc_Thien/CDT_Anh_Mai_Duc_Thien.jpg
   cdt: CĐT Anh Mai Đức Thiện
 - url: /resources/congtrinhdathicong/CDT_Anh_Ngo_Son_Hoang/CDT_Anh_Ngo_Son_Hoang.jpg
   cdt: CĐT Anh Ngô Sơn Hoàng
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Anh_Vu/CDT_Anh_Nguyen_Anh_Vu.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Anh_Vu/CDT_Anh_Nguyen_Anh_Vu.png
   cdt: CĐT Anh Nguyễn Anh Vũ
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Dinh_Lam/CDT_Anh_Nguyen_Dinh_Lam.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Dinh_Lam/CDT_Anh_Nguyen_Dinh_Lam.png
   cdt: CĐT Anh Nguyễn Đình Lâm
 - url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Hai_Dang/CDT_Anh_Nguyen_Hai_Dang.jpg
   cdt: CĐT Anh Nguyễn Hải Đăng
@@ -41,45 +38,36 @@
   cdt: CĐT Anh Nguyễn Khánh Vinh
 - url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Manh_Hung/CDT_Anh_Nguyen_Manh_Hung.jpg
   cdt: CĐT Anh Nguyễn Mạnh Hùng
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Nhat_Tri/CDT_Anh_Nguyen_Nhat_Tri.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Nhat_Tri/CDT_Anh_Nguyen_Nhat_Tri.png
   cdt: CĐT Anh Nguyễn Nhật Trí
 - url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Quoc_Huy/CDT_Anh_Nguyen_Quoc_Huy.jpg
   cdt: CĐT Anh Nguyễn Quốc Huy
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Tay_Bao/CDT_Anh_Nguyen_Tay_Bao.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Tay_Bao/CDT_Anh_Nguyen_Tay_Bao.png
   cdt: CĐT Anh Nguyễn Tây Bảo
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Thanh_Truc/CDT_Anh_Nguyen_Thanh_Truc.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Thanh_Truc/CDT_Anh_Nguyen_Thanh_Truc.png
   cdt: CĐT Anh Nguyễn Thanh Trúc
-- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Van_Hieu/CDT_Anh_Nguyen_Van_Hieu.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Nguyen_Van_Hieu/CDT_Anh_Nguyen_Van_Hieu.png
   cdt: CĐT Anh Nguyễn Văn Hiếu
-- url: /resources/congtrinhdathicong/CDT_Anh_Pham_Trung_Dung/CDT_Anh_Pham_Trung_Dung1.jpg
 - url: /resources/congtrinhdathicong/CDT_Anh_Pham_Trung_Dung/CDT_Anh_Pham_Trung_Dung2.jpg
   cdt: CĐT Anh Phạm Trung Dũng
-- url: /resources/congtrinhdathicong/CDT_Anh_Tran_Minh_Tam/CDT_Anh_Tran_Minh_Tam1.jpg
 - url: /resources/congtrinhdathicong/CDT_Anh_Tran_Minh_Tam/CDT_Anh_Tran_Minh_Tam2.jpg
   cdt: CĐT Anh Trần Minh Tâm
-- url: /resources/congtrinhdathicong/CDT_Anh_Trinh_Long_Giang/CDT_Anh_Trinh_Long_Giang.jpg
+- url: /resources/congtrinhdathicong/CDT_Anh_Trinh_Long_Giang/CDT_Anh_Trinh_Long_Giang.png
   cdt: CĐT Anh Trịnh Long Giang
 - url: /resources/congtrinhdathicong/CDT_Anh_Vuong_Phuoc_Nguyen/CDT_Anh_Vuong_Phuoc_Nguyen.jpg
   cdt: CĐT Anh Vương Phước Nguyên
 - url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Kim_Anh/CDT_Chi_Nguyen_Kim_Anh1.jpg
-- url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Kim_Anh/CDT_Chi_Nguyen_Kim_Anh2.jpg
-- url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Kim_Anh/CDT_Chi_Nguyen_Kim_Anh3.jpg
   cdt: CĐT Chị Nguyễn Kim Ánh
-- url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Thi_Kieu_My/CDT_Chi_Nguyen_Thi_Kieu_My1.jpg
 - url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Thi_Kieu_My/CDT_Chi_Nguyen_Thi_Kieu_My2.jpg
   cdt: CĐT Chị Nguyễn Thị Kiều My
-- url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Thi_Nga/CDT_Chi_Nguyen_Thi_Nga1.jpg
 - url: /resources/congtrinhdathicong/CDT_Chi_Nguyen_Thi_Nga/CDT_Chi_Nguyen_Thi_Nga2.jpg
   cdt: CĐT Chị Nguyễn Thị Nga
-- url: /resources/congtrinhdathicong/CDT_Chi_Pham_Tu_Tram/CDT_Chi_Pham_Tu_Tram1.jpg
 - url: /resources/congtrinhdathicong/CDT_Chi_Pham_Tu_Tram/CDT_Chi_Pham_Tu_Tram2.jpg
   cdt: CĐT Chị Phạm Tú Trâm
 - url: /resources/congtrinhdathicong/CDT_Chi_Tran_Thi_Oanh/CDT_Chi_Tran_Thi_Oanh.jpg
   cdt: CĐT Chị Trần Thị Oanh
 - url: /resources/congtrinhdathicong/CDT_Chi_Tran_To_Lien/CDT_Chi_Tran_To_Lien.jpg
   cdt: CĐT Chị Trần Tố Liên
-- url: /resources/congtrinhdathicong/CDT_Chi_Truong_Thi_Nguyet_Anh/CDT_Chi_Truong_Thi_Nguyet_Anh1.jpg
-- url: /resources/congtrinhdathicong/CDT_Chi_Truong_Thi_Nguyet_Anh/CDT_Chi_Truong_Thi_Nguyet_Anh2.jpg
 - url: /resources/congtrinhdathicong/CDT_Chi_Truong_Thi_Nguyet_Anh/CDT_Chi_Truong_Thi_Nguyet_Anh3.jpg
   cdt: CĐT Chị Trương Thi Nguyệt Ánh
 - url: /resources/congtrinhdathicong/Coffee_Shop/Coffee_Shop.jpg
